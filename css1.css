@@ -6,3 +6,7 @@ p {
 .name {background-color: azure;}
 
 #red {font-size: larger;}
+
+#header {
+    padding: 10px
+}
